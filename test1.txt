@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 969F-670E
+
+ Directory of C:\Users\vicky\Desktop\my project
+
+24-06-2024  17:29    <DIR>          .
+24-06-2024  17:28    <DIR>          ..
+24-06-2024  17:29                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  10,790,494,208 bytes free
